@@ -29,4 +29,8 @@ func main() {
 		v02 = "string"
 	)
 
+	_ = v7
+	_ = v01
+	_ = v02
+
 }
