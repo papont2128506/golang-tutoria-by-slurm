@@ -19,10 +19,10 @@ func main() {
 	l := len(hello) // количество байт, а не длина строки
 	println(l)
 
-	str := "12345"
+	//str := "12345"
 	//str[from:to]
-	newStr := str[2:4] //"34"
-	newStr := str[:4]  //"1234"
-	newStr := str[2:]  //"345"
+	//newStr := str[2:4] //"34"
+	//newStr := str[:4]  //"1234"
+	//newStr := str[2:]  //"345"
 
 }
